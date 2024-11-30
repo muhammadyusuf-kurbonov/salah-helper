@@ -1,0 +1,9 @@
+This is just script, that asks you, if you have done salah (prayer)
+
+You can attach it to bashrc or use how you want.
+
+## TODO:
+
+- [x] Fetch salah data and get current one
+- [x] Implement prompt to ask
+- 
