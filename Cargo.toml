@@ -1,0 +1,9 @@
+[package]
+name = "block-to-pray"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+console = "0.15.8"
+dialoguer = "0.11.0"
+salah = "0.7.5"
