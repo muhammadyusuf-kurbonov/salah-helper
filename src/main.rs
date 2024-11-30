@@ -9,6 +9,7 @@ use modules::{
 mod modules;
 
 fn main() {
+    dotenv::dotenv().ok();
     let current = salah_time_fetcher::calculate_current_salah();
 
     let current_lock = read_lock_file();
